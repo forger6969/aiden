@@ -1,0 +1,64 @@
+h1{
+    background-color: rgb(168, 168, 252);
+    text-align: center;
+    border-radius: 25px;
+    border: 7px solid red;
+}
+
+
+
+
+table{
+
+    background-color: white;
+    width: 70%;
+}
+th{
+   background-color: red;
+    text-align: center;
+
+}
+td{
+    background-color: violet;
+}
+.TD1{
+    background-color: green;
+}
+caption{
+    background-color: yellow;
+}
+img{
+    width: 60%;
+}
+button{
+    background-color: greenyellow;
+    width: 250px;
+    height: 30px;
+    border: none;
+}
+.mikasa{
+    background-color: yellow;
+}
+.Tesla1{
+    color: red;
+}
+
+.Tesla2{
+
+    color: yellow;
+}
+.Tesla3{
+    color: green;
+}
+.Tesla4{
+    color: gray;
+}
+li{
+    color: green;
+    
+}
+
+.eren{
+    color: red
+    ;
+}
